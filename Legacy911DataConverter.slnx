@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Legacy911DataConverter.Api/Legacy911DataConverter.Api.csproj" Id="64927763-fda1-4d5c-883e-14dd117e51b1" />
+  <Project Path="Legacy911DataConverter.Core/Legacy911DataConverter.Core.csproj" Id="e7377987-52e0-4e33-a5d8-043c193e17a2" />
+  <Project Path="Legacy911DataConverter.Infrastructure/Legacy911DataConverter.Infrastructure.csproj" Id="d10bedb4-8175-4187-a8cd-9dc599dcc536" />
+  <Project Path="Legacy911DataConverter.Tests/Legacy911DataConverter.Tests.csproj" Id="e4f9c8c9-e620-4b04-9524-8e95fddc1053" />
+</Solution>

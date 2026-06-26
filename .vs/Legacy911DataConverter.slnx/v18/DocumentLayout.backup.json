@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9C8C9-E620-4B04-9524-8E95FDDC1053}|Legacy911DataConverter.Tests\\Legacy911DataConverter.Tests.csproj|c:\\users\\elija\\source\\repos\\legacy911dataconverter\\legacy911dataconverter.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9C8C9-E620-4B04-9524-8E95FDDC1053}|Legacy911DataConverter.Tests\\Legacy911DataConverter.Tests.csproj|solutionrelative:legacy911dataconverter.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10BEDB4-8175-4187-A8CD-9DC599DCC536}|Legacy911DataConverter.Infrastructure\\Legacy911DataConverter.Infrastructure.csproj|c:\\users\\elija\\source\\repos\\legacy911dataconverter\\legacy911dataconverter.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10BEDB4-8175-4187-A8CD-9DC599DCC536}|Legacy911DataConverter.Infrastructure\\Legacy911DataConverter.Infrastructure.csproj|solutionrelative:legacy911dataconverter.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7377987-52E0-4E33-A5D8-043C193E17A2}|Legacy911DataConverter.Core\\Legacy911DataConverter.Core.csproj|c:\\users\\elija\\source\\repos\\legacy911dataconverter\\legacy911dataconverter.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7377987-52E0-4E33-A5D8-043C193E17A2}|Legacy911DataConverter.Core\\Legacy911DataConverter.Core.csproj|solutionrelative:legacy911dataconverter.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Legacy911DataConverter.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Legacy911DataConverter.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:47:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Legacy911DataConverter.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Legacy911DataConverter.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:46:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Legacy911DataConverter.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\elija\\source\\repos\\Legacy911DataConverter\\Legacy911DataConverter.Core\\Class1.cs",
+              "RelativeToolTip": "Legacy911DataConverter.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T20:46:12.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

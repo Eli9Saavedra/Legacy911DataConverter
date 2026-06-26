@@ -1,0 +1,15 @@
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\bin\Debug\net8.0\Legacy911DataConverter.Infrastructure.deps.json
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\bin\Debug\net8.0\Legacy911DataConverter.Infrastructure.dll
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\bin\Debug\net8.0\Legacy911DataConverter.Infrastructure.pdb
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\bin\Debug\net8.0\Legacy911DataConverter.Core.dll
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\bin\Debug\net8.0\Legacy911DataConverter.Core.pdb
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.AssemblyInfo.cs
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy91.7413FF7F.Up2Date
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.dll
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\refint\Legacy911DataConverter.Infrastructure.dll
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\Legacy911DataConverter.Infrastructure.pdb
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Infrastructure\obj\Debug\net8.0\ref\Legacy911DataConverter.Infrastructure.dll
