@@ -1,0 +1,44 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Test Results
+TestResults/
+*.trx
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local database files
+*.mdf
+*.ldf
+*.ndf
+
+# Build output by version
+bin/
+obj/
+
+# Architecture-specific bin/obj folders
+bin/Debug/net*
+bin/Release/net*
+obj/Debug/net*
+obj/Release/net*
