@@ -1,6 +1,6 @@
 # 🚓 Vision and Scope
 
-![Status](https://img.shields.io/badge/status-in%20progress-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Version](https://img.shields.io/badge/version-0.1-blue)
 ![Release](https://img.shields.io/badge/release-v1%20MVP-purple)
 

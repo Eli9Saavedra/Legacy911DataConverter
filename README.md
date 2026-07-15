@@ -207,14 +207,14 @@ Project documentation is stored in the `docs/` folder.
 
 | Document                            | Status      | Link                                            |
 | ----------------------------------- | ----------- | ----------------------------------------------- |
-| Vision and Scope                    | In Progress | [View Document](docs/vision-and-scope.md)       |
-| Software Requirements Specification | Planned     | [View Document](docs/requirements/srs.md)       |
-| Domain Model                        | Planned     | [View Document](docs/design/domain-model.md)    |
-| Database Design / ERD               | Planned     | [View Document](docs/design/database-design.md) |
-| API Design                          | Planned     | [View Document](docs/design/api-design.md)      |
-| Architecture Document               | Planned     | [View Document](docs/design/architecture.md)    |
-| ADRs                                | Planned     | [View Folder](docs/adr)                         |
-| Test Plan                           | Planned     | [View Document](docs/testing/test-plan.md)      |
+| Vision and Scope                    | Complete | [View Document](docs/vision-and-scope.md)       |
+| Software Requirements Specification | Complete | [View Document](docs/requirements/srs.md)       |
+| Domain Model                        | Complete | [View Document](docs/design/domain-model.md)    |
+| Database Design / ERD               | Complete | [View Document](docs/design/database-design.md) |
+| API Design                          | Complete | [View Document](docs/design/api-design.md)      |
+| Architecture Document               | Complete | [View Document](docs/design/architecture.md)    |
+| ADRs                                | Complete | [View Folder](docs/adr)                         |
+| Test Plan                           | Complete | [View Document](docs/testing/test-plan.md)      |
 
 ---
 
@@ -222,19 +222,19 @@ Project documentation is stored in the `docs/` folder.
 
 Architecture Decision Records document the major technical decisions made for Legacy911DataConverter v1.
 
-| ADR                                        | Status  | Link                                                  |
-| ------------------------------------------ | ------- | ----------------------------------------------------- |
-| ADR 0001: Use Layered Architecture         | Planned | [View ADR](docs/adr/0001-use-layered-architecture.md) |
-| ADR 0002: Use SQL Server LocalDB for v1    | Planned | [View ADR](docs/adr/0002-use-sql-server-localdb.md)   |
-| ADR 0003: Use CSV and XML for Legacy Input | Planned | [View ADR](docs/adr/0003-use-csv-and-xml-inputs.md)   |
-| ADR 0004: Store Conversion Errors          | Planned | [View ADR](docs/adr/0004-store-conversion-errors.md)  |
-| ADR 0005: Track Imports as Batches         | Planned | [View ADR](docs/adr/0005-track-imports-as-batches.md) |
+| ADR                                        | Status   | Link                                                  |
+| ------------------------------------------ | -------- | ----------------------------------------------------- |
+| ADR 0001: Use Layered Architecture         | Accepted | [View ADR](docs/adr/0001-use-layered-architecture.md) |
+| ADR 0002: Use SQL Server LocalDB for v1    | Accepted | [View ADR](docs/adr/0002-use-sql-server-localdb.md)   |
+| ADR 0003: Use CSV and XML for Legacy Input | Accepted | [View ADR](docs/adr/0003-use-csv-and-xml-inputs.md)   |
+| ADR 0004: Store Conversion Errors          | Accepted | [View ADR](docs/adr/0004-store-conversion-errors.md)  |
+| ADR 0005: Track Imports as Batches         | Accepted | [View ADR](docs/adr/0005-track-imports-as-batches.md) |
 
 ---
 
 ## ✅ Current Project Status
 
-The project setup phase has started.
+The project documentation phase is complete.
 
 Completed setup tasks:
 
@@ -250,7 +250,7 @@ Completed setup tasks:
 Current phase:
 
 ```text
-Initial project setup and documentation
+Documentation complete; ready for implementation phase
 ```
 
 ---
@@ -259,20 +259,15 @@ Initial project setup and documentation
 
 Planned implementation order:
 
-1. Complete Vision and Scope document
-2. Create Software Requirements Specification
-3. Define domain model
-4. Design SQL Server database structure
-5. Create sample legacy CSV and XML files
-6. Add Entity Framework Core
-7. Create initial database migration
-8. Build CSV incident parser
-9. Build validation rules
-10. Build conversion workflow
-11. Add conversion error logging
-12. Add conversion summary endpoints
-13. Add XML responding unit import
-14. Add unit tests for validation and conversion logic
+1. Create sample legacy CSV and XML files
+2. Add Entity Framework Core models and DbContext
+3. Create initial database migration
+4. Build CSV incident parser
+5. Build XML responding unit parser
+6. Implement conversion validation rules
+7. Implement conversion batch persistence
+8. Add conversion summary and retrieval endpoints
+9. Add unit tests for validation and conversion logic
 
 Main v1 workflow:
 
