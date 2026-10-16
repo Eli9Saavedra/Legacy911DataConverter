@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Legacy911DataConverter.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61af1e994a85a30c33f4ef72b0484794c186c8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Legacy911DataConverter.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Legacy911DataConverter.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

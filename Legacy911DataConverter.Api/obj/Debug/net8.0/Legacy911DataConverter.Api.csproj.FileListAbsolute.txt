@@ -36,3 +36,4 @@ C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Api\ob
 C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Api\obj\Debug\net8.0\ref\Legacy911DataConverter.Api.dll
 C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Api\bin\Debug\net8.0\Legacy911DataConverter.Core.dll
 C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Api\bin\Debug\net8.0\Legacy911DataConverter.Core.pdb
+C:\Users\elija\source\repos\Legacy911DataConverter\Legacy911DataConverter.Api\obj\Debug\net8.0\Legacy911DataConverter.Api.sourcelink.json
